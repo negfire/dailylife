@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to negfire's dailylife.
 
 You can use the [editor on GitHub](https://github.com/negfire/dailylife/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
